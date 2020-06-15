@@ -1,0 +1,205 @@
+a,
+.pop_item_description i,
+.home_blog_disc i,
+.blockquote_style1 i,
+.serching_yemm_sec .form-group i,
+.navbar-light .navbar-nav .active>.nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .show>.nav-link,
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover,
+.products_slider_style2 .owl-nav .owl-prev,
+.products_slider_style2 .owl-nav .owl-next,
+.foregot_pass a,
+.green_text,
+.input-group-addon,
+.breadcrumb .breadcrumb-item.active,
+.absolute_icon,
+.reply_btn,
+.room_facilities li i,
+.check_in_time i,
+.day_stuts i,
+.nav_tab_items .nav-link.active,
+.show>.nav-pills .nav-link,
+.note_text strong,
+.green_text1,
+.hot_deals-wrapper .outline_bages a,
+.green_text2,
+.error404 h1 span,
+.faq_yemm_contant a:hover,
+.btn-link,
+.pass_link,
+.green_icon,
+.pay_respit,
+.price_modual_sec strong,
+.update_pass,
+.owner_hotel-detail .nav-tabs .nav-link.active,
+.imageuploadify,
+.module_price b,
+.home2_blog_box_content p.update_date span i,
+.slider_search_form .search_box span {
+  color: #0099e6;
+}
+
+a:hover,
+a:focus,
+.btn-link:hover,
+.footer_links li a:hover,
+.scrollpay_nav ul li.active a,
+.listing-detail_modaul .bookmark_view a:hover,
+.bookmark_view li a:hover,
+.blog_categories ul li a:hover,
+.footer_widget li a:hover,
+.footer_style2_links li a:hover,
+.footer2_style_widget li a:hover {
+  color: #0099e6;
+}
+
+.navbar-nav .dropdown-item:active,
+.navbar-nav .dropdown-item:hover,
+.btn.btn-outline-primary,
+.promocoad,
+.pagination .page-link,
+.faq-sidebar.scrollpay_nav ul li.active a {
+  color: #0099e6;
+  border-color: #0099e6;
+}
+
+.btn.btn-outline-primary:hover,
+.btn.btn-outline-primary:focus,
+.btn-success,
+.owl-dots .owl-dot.active,
+.footer_socail li a:hover,
+.btn-secondary,
+.custom-control-input:checked~.custom-control-indicator,
+.page-item.active .page-link {
+  color: #fff;
+  background-color: #0099e6;
+  border-color: #0099e6;
+}
+
+.navbar-nav .dropdown-menu:after,
+.scrollpay_nav ul li.active a {
+  border-bottom-color: #0099e6;
+}
+
+.nav-bg-green:before {
+  border-right-color: #0099e6;
+}
+
+.form-control:focus,
+.yemm_how_blog,
+.outline_bages,
+#detail_carousel2 .slides li.flex-active-slide img,
+.datepicker,
+.nav_tab_items .nav-link.active,
+.show>.nav-pills .nav-link,
+.info_icon,
+blockquote,
+.imageuploadify .imageuploadify-images-list button.btn-default,
+.imageuploadify .imageuploadify-images-list span.imageuploadify-message,
+.slider_search_form .search_box input:focus {
+  border-color: #0099e6;
+}
+
+input[type="submit"],
+.badge-success,
+.green_icon_blog:before,
+.yemm_most_facilities li:hover,
+.demo_changer .demo-icon,
+.btn-info,
+.promooff,
+#scrollToTop a,
+#login_signup .nav-item .nav-link,
+.listing_header a.active,
+.btn-dark2,
+.over_cricul,
+.datepicker table tr td.day:hover,
+.datepicker table tr td.day.focused,
+.btn_tagline,
+.btn_tagline:hover,
+.price_modual_sec .btn-primary,
+.remove_icon,
+.user_desboard_nav,
+.navbar-nav .dropdown-menu:before,
+.h2_babuls_style,
+.h2_babuls_style:before,
+.h2_babuls_style:after,
+.primary-bg,
+.modal-header,
+.listng_page_footer,
+.listng_page_footer:before,
+.total_pey,
+.blog_tags a:hover span,
+.listing1-wrapper .slider-selection,
+.listing2_price_bar .slider-selection,
+.nav-bg-green:after,
+.nav-bg-green,
+.headding_border_style .border_style1,
+.headding_border_style .border_style2,
+.destination_hotel_item .destination_hotel_item_content p,
+.popular_hotels_view a,
+.pop_hotle_item_nav span,
+.testimonial_2_box_main:before {
+  background-color: #0099e6;
+  color: #fff;
+}
+
+.slider-handle,
+.slider-selection.tick-slider-selection,
+.slider-tick.in-selection,
+.slider-handle.min-slider-handle {
+  background-image: linear-gradient(to bottom, #0099e6 0, #0099e6 100%);
+}
+
+.dicount_yemm,
+.imageuploadify .imageuploadify-images-list button.btn-default {
+  background-color: #0099e6 !important;
+  color: #fff !important;
+}
+
+.green_trasp_bg,
+.yemm_desti_blog:hover .yemm_desti_inner {
+  background-color: rgba(0, 153, 230, 0.28);
+}
+
+#login_signup .nav-item .nav-link.active,
+.user_desboard_nav ul li.active a {
+  background-color: #fff;
+  color: #0099e6;
+}
+
+.btn-green {
+  background-color: #146390 !important;
+  border-color: #146390 !important;
+}
+
+.modal-header .close:before,
+.btn-success:hover,
+.popular_property_search input:focus {
+  border-color: #18587d;
+}
+
+.input_change::-webkit-input-placeholder {
+  /* WebKit, Blink, Edge */
+  color: #fff;
+}
+
+.input_change:-moz-placeholder {
+  /* Mozilla Firefox 4 to 18 */
+  color: #fff;
+  opacity: 0.5;
+}
+
+.input_change::-moz-placeholder {
+  /* Mozilla Firefox 19+ */
+  color: #fff;
+  opacity: 0.5;
+}
+
+.input_change:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: #fff;
+  opacity: 0.5;
+}
